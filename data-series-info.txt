@@ -1,0 +1,881 @@
+MoKMaSD;2012;Co-located;Software Engineering and Formal Methods - SEFM 2012
+MoKMaSD;2012;Location;Thessaloniki;Greece
+MoKMaSD;2012;Modelling-methodologies-and-notations;System Dynamics
+MoKMaSD;2012;Modelling-methodologies-and-notations;Systems of Differential Equations
+MoKMaSD;2012;Modelling-methodologies-and-notations;Game Theory
+MoKMaSD;2012;Modelling-methodologies-and-notations;Machine Learning
+MoKMaSD;2012;Modelling-methodologies-and-notations;Agent-based Methodologies
+MoKMaSD;2012;Modelling-methodologies-and-notations;Process Calculi and Petri Nets
+MoKMaSD;2012;Modelling-methodologies-and-notations;Automata-based Notations
+MoKMaSD;2012;Modelling-methodologies-and-notations;Rewriting Systems
+MoKMaSD;2012;Modelling-methodologies-and-notations;Membrane Systems
+MoKMaSD;2012;Modelling-methodologies-and-notations;Cellular Automata
+MoKMaSD;2012;Modelling-methodologies-and-notations;Discrete Optimisation Modelling
+MoKMaSD;2012;Modelling-methodologies-and-notations;Continuous Optimisation Modelling
+MoKMaSD;2012;Modelling-methodologies-and-notations;Empirical Modelling
+MoKMaSD;2012;Modelling-methodologies-and-notations;Taxonomies and Ontologies 
+MoKMaSD;2012;Application-Domains;Sustainability Science
+MoKMaSD;2012;Application-Domains;Integrated Development Planning
+MoKMaSD;2012;Application-Domains;Evidence-based Policy
+MoKMaSD;2012;Application-Domains;Governance
+MoKMaSD;2012;Application-Domains;Enterprise Architecture
+MoKMaSD;2012;Application-Domains;Ecosystem Science
+MoKMaSD;2012;Application-Domains;Epidemiology
+MoKMaSD;2012;Application-Domains;Genetics
+MoKMaSD;2012;Application-Domains;Population and Reintroduction Biology
+MoKMaSD;2012;Application-Domains;Climate Change
+MoKMaSD;2012;Application-Domains;Environmental Risk Assessment and Management
+MoKMaSD;2012;Application-Domains;Urban Ecology and Smart Cities
+MoKMaSD;2012;Application-Domains;Agricultural Systems
+MoKMaSD;2012;Application-Domains;Poverty Reduction
+MoKMaSD;2012;Keynote;Corrado Priami;COSBI, University of Trento;Italy
+MoKMaSD;2012;PC-chair;Antonio Cerone;UNU-IIST, United Nations University;Macau SAR China
+MoKMaSD;2012;PC-chair;Alexeis Garcia-Perez;Coventry University;UK
+MoKMaSD;2012;PC-committee;Rajeev Bali;Coventry University;UK
+MoKMaSD;2012;PC-committee;Roberto Barbuti;University of Pisa;Italy
+MoKMaSD;2012;PC-committee;Thomas Anung Basuki;Parahyangan Catholic University;Italy
+MoKMaSD;2012;PC-committee;Ettore Bolisani;University of Padua;Italy
+MoKMaSD;2012;PC-committee;Antonio Cerone;UNU-IIST, United Nations University;Macau SAR China
+MoKMaSD;2012;PC-committee;Steve Culley;University of Bath;UK
+MoKMaSD;2012;PC-committee;Simone D'Alessandro;University of Pisa;Italy
+MoKMaSD;2012;PC-committee;Francesco De Angelis;University of Camerino;Italy
+MoKMaSD;2012;PC-committee;Rocco De Nicola;IMT, Institutions Markets Technologies;Italy
+MoKMaSD;2012;PC-committee;Alexeis Garcia-Perez;Coventry University;UK
+MoKMaSD;2012;PC-committee;Tatiana Gavrilova;St. Petersburg University;Russia
+MoKMaSD;2012;PC-committee;David Gurteen;Gurteen Knowledge;UK
+MoKMaSD;2012;PC-committee;Meliha Handzic;Sarajevo School of Science and Technology;Serbia
+MoKMaSD;2012;PC-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+MoKMaSD;2012;PC-committee;Erik Johnston;Arizona State University;US
+MoKMaSD;2012;PC-committee;Ozan Kahramanogullari;COSBI;Italy
+MoKMaSD;2012;PC-committee;Nicos Komninos;URENIO Research, Aristotle University of Tessaloniki;Greece
+MoKMaSD;2012;PC-committee;Franz Lehner;University of Passau;Germany
+MoKMaSD;2012;PC-committee;Siu-Wai Leung;University of Macau;Macau SAR China
+MoKMaSD;2012;PC-committee;Chris McMahon;University of Bath;UK
+MoKMaSD;2012;PC-committee;Paolo Milazzo;University of Pisa;Italy
+MoKMaSD;2012;PC-committee;Jeremy Millard;Danish Technological Institute;Denmark
+MoKMaSD;2012;PC-committee;Sandra Moffett;University of Ulster;UK
+MoKMaSD;2012;PC-committee;Adegboyega Ojo;UNU-IIST, United Nations University;Macau SAR China
+MoKMaSD;2012;PC-committee;Matteo Pedercini;Millennium Institute;US
+MoKMaSD;2012;PC-committee;Ion Petre;Abo Akademi University;Finland
+MoKMaSD;2012;PC-committee;Barbara Re;University of Camerino;Italy
+MoKMaSD;2012;PC-committee;Siraj A. Shaikh;Coventry University;UK
+MoKMaSD;2012;PC-committee;Michael Sonnenschein;University of Oldenburg;Germany
+MoKMaSD;2012;PC-committee;Massimo Tavoni;FEEM, Fondazione Eni Enrico Mattei;Italy
+MoKMaSD;2012;PC-committee;Hefeng Tong;ISTIC, Institute of Scientific and Technical Information of China;China
+MoKMaSD;2012;PC-committee;José M. Viedma Martí;University of Catalonia;Spain
+MoKMaSD;2012;PC-committee;Shaofa Yang;Chinese Academy of Sciences, SIAT;China
+MoKMaSD;2013;Co-located;Software Engineering and Formal Methods - SEFM 2013
+MoKMaSD;2013;Location;Madrid;Spain
+MoKMaSD;2013;Modelling-methodologies-and-notations;System Dynamics
+MoKMaSD;2013;Modelling-methodologies-and-notations;Systems of Differential Equations
+MoKMaSD;2013;Modelling-methodologies-and-notations;Game Theory
+MoKMaSD;2013;Modelling-methodologies-and-notations;Machine Learning
+MoKMaSD;2013;Modelling-methodologies-and-notations;Agent-based Methodologies
+MoKMaSD;2013;Modelling-methodologies-and-notations;Process Calculi and Petri Nets
+MoKMaSD;2013;Modelling-methodologies-and-notations;Automata-based Notations
+MoKMaSD;2013;Modelling-methodologies-and-notations;Rewriting Systems
+MoKMaSD;2013;Modelling-methodologies-and-notations;Membrane Systems
+MoKMaSD;2013;Modelling-methodologies-and-notations;Cellular Automata
+MoKMaSD;2013;Modelling-methodologies-and-notations;Discrete Optimisation Modelling
+MoKMaSD;2013;Modelling-methodologies-and-notations;Continuous Optimisation Modelling
+MoKMaSD;2013;Modelling-methodologies-and-notations;Empirical Modelling
+MoKMaSD;2013;Modelling-methodologies-and-notations;Taxonomies and Ontologies
+MoKMaSD;2013;Application-domains;Sustainability Science
+MoKMaSD;2013;Application-domains;Integrated Development Planning
+MoKMaSD;2013;Application-domains;Evidence-based Policy
+MoKMaSD;2013;Application-domains;Governance
+MoKMaSD;2013;Application-domains;Enterprise Architecture
+MoKMaSD;2013;Application-domains;Ecosystem Science
+MoKMaSD;2013;Application-domains;Epidemiology
+MoKMaSD;2013;Application-domains;Genetics
+MoKMaSD;2013;Application-domains;Population and Reintroduction Biology
+MoKMaSD;2013;Application-domains;Climate Change
+MoKMaSD;2013;Application-domains;Environmental Risk Assessment and Management
+MoKMaSD;2013;Application-domains;Urban Ecology and Smart Cities
+MoKMaSD;2013;Application-domains;Agricultural Systems
+MoKMaSD;2013;Application-domains;Poverty Reduction
+MoKMaSD;2013;Keynote;Paloma Cáceres García de Marina;VorTIC3 Research Group, Rey Juan Carlos University;Spain 
+MoKMaSD;2013;PC-chair;Adegboyega Ojo;DERI, National University of Ireland;Republic of Ireland
+MoKMaSD;2013;PC-chair;Paolo Milazzo;University of Pisa;Italy
+MoKMaSD;2013;PC-committee;Giulio Caravagna;DISCo, University Milano-Bicocca;Italy
+MoKMaSD;2013;PC-committee;Antonio Cerone;UNU-IIST, United Nations University;Macau SAR China
+MoKMaSD;2013;PC-committee;Luis M. Camarinha-Matos;Universidade Nova de Lisboa;Portugal
+MoKMaSD;2013;PC-committee;Ed Curry;DERI, National University of Ireland;Ireland
+MoKMaSD;2013;PC-committee;Simone D'Alessandro;University of Pisa;Italy
+MoKMaSD;2013;PC-committee;Rocco De Nicola;IMT, Institutions Markets Technologies;Italy
+MoKMaSD;2013;PC-committee;Alexeis Garcia-Perez;Coventry University;UK
+MoKMaSD;2013;PC-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+MoKMaSD;2013;PC-committee;Erik Johnston;Arizona State University;US
+MoKMaSD;2013;PC-committee;Hong-Gee Kim;Seoul National University;Korea
+MoKMaSD;2013;PC-committee;Siu-Wai Leung;University of Macau;Macau SAR China
+MoKMaSD;2013;PC-committee;Paolo Milazzo;University of Pisa;Italy
+MoKMaSD;2013;PC-committee;Alessandra Mileo;DERI, National University of Ireland;Ireland
+MoKMaSD;2013;PC-committee;Gianluca Misuraca;European Commission, JRC-IPTS;Spain
+MoKMaSD;2013;PC-committee;Giovanni Pardini;University of Pisa;Italy
+MoKMaSD;2013;PC-committee;Adegboyega Ojo;DERI, National University of Ireland;Ireland
+MoKMaSD;2013;PC-committee;Matteo Pedercini;Millennium Institute;US
+MoKMaSD;2013;PC-committee;Barbara Re;University of Camerino;Italy
+MoKMaSD;2013;PC-committee;Pallab Saha;National University of Singapore;Singapore
+MoKMaSD;2013;PC-committee;Marco Scotti;COSBI;Italy
+MoKMaSD;2013;PC-committee;Siraj A. Shaikh;Coventry University;UK
+MoKMaSD;2013;PC-committee;Carron Shankland;University of Stirling;Scotland
+MoKMaSD;2013;PC-committee;Michael Sonnenschein;University of Oldenburg;Germany
+MoKMaSD;2013;PC-committee;Efthimios Tambouris;University of Macedonia;Greece
+MoKMaSD;2013;PC-committee;Massimo Tavoni;FEEM, Fondazione Eni Enrico Mattei;Italy
+MoKMaSD;2013;PC-committee;Luca Tesei;University of Camerino;Italy
+MoKMaSD;2013;PC-committee;Shaofa Yang;Chinese Academy of Sciences, IOS;China
+MoKMaSD;2014;Co-located;Software Engineering and Formal Methods - SEFM 2014
+MoKMaSD;2014;Location;Grenoble;France
+MoKMaSD;2014;Methodologies-and-Notations;Agent-based Methodologies
+MoKMaSD;2014;Methodologies-and-Notations;Automata-based Notations
+MoKMaSD;2014;Methodologies-and-Notations;Big Data Analytics
+MoKMaSD;2014;Methodologies-and-Notations;Cellular Automata
+MoKMaSD;2014;Methodologies-and-Notations;Constraint Programming
+MoKMaSD;2014;Methodologies-and-Notations;Data Mining
+MoKMaSD;2014;Methodologies-and-Notations;Differential Equations
+MoKMaSD;2014;Methodologies-and-Notations;Empirical Modelling
+MoKMaSD;2014;Methodologies-and-Notations;Game Theory
+MoKMaSD;2014;Methodologies-and-Notations;Machine Learning
+MoKMaSD;2014;Methodologies-and-Notations;Membrane Systems
+MoKMaSD;2014;Methodologies-and-Notations;Network Theory and Analysis
+MoKMaSD;2014;Methodologies-and-Notations;Ontologies
+MoKMaSD;2014;Methodologies-and-Notations;Optimisation Modelling
+MoKMaSD;2014;Methodologies-and-Notations;Petri Nets
+MoKMaSD;2014;Methodologies-and-Notations;Process Calculi
+MoKMaSD;2014;Methodologies-and-Notations;Process Mining
+MoKMaSD;2014;Methodologies-and-Notations;Rewriting Systems
+MoKMaSD;2014;Methodologies-and-Notations;Spatio-temporal Data Analysis/Mining
+MoKMaSD;2014;Methodologies-and-Notations;System Dynamics
+MoKMaSD;2014;Methodologies-and-Notations;Text Mining 
+MoKMaSD;2014;Application-Domains;Biology
+MoKMaSD;2014;Application-Domains;Business Process Management
+MoKMaSD;2014;Application-Domains;Climate Change
+MoKMaSD;2014;Application-Domains;Ecology
+MoKMaSD;2014;Application-Domains;Education
+MoKMaSD;2014;Application-Domains;Environmental Risk Assessment and Management
+MoKMaSD;2014;Application-Domains;Enterprise Architectures
+MoKMaSD;2014;Application-Domains;Epidemiology
+MoKMaSD;2014;Application-Domains;Genetics
+MoKMaSD;2014;Application-Domains;Governance
+MoKMaSD;2014;Application-Domains;Pharmacology
+MoKMaSD;2014;Application-Domains;Social Software Engineering
+MoKMaSD;2014;Application-Domains;Social Systems
+MoKMaSD;2014;Application-Domains;Sustainable Development
+MoKMaSD;2014;Application-Domains;Urban Ecology and Smart Cities 
+MoKMaSD;2014;Keynote;Alberto d'Onofrio;International Prevention Research Institute (iPRI);France
+MoKMaSD;2014;Keynote;Elisa Fromont;Université de Lyon, Université de St-Etienne;France
+MoKMaSD;2014;PC-chair;Paolo Milazzo;University of Pisa;Italy
+MoKMaSD;2014;PC-chair;Anna Monreale;University of Pisa;Italy
+MoKMaSD;2014;PC-committee;Orlando Belo;University of Minho;Portugal
+MoKMaSD;2014;PC-committee;Paloma Cáceres;Rey Juan Carlos University;Spain
+MoKMaSD;2014;PC-committee;Giulio Caravagna;University of Milano-Bicocca;Italy
+MoKMaSD;2014;PC-committee;Antonio Cerone;University of Pisa;Italy
+MoKMaSD;2014;PC-committee;Michele Coscia;Harvard Kennedy School;US
+MoKMaSD;2014;PC-committee;Andrea Esuli;ISTI-CNR, Pisa;Italy
+MoKMaSD;2014;PC-committee;Alexeis Garcia-Perez;Coventry University;UK
+MoKMaSD;2014;PC-committee;Jane Hillston;University of Edinbourgh;UK
+MoKMaSD;2014;PC-committee;Joris Hulstijn;Delft University of Technology;The Netherlands
+MoKMaSD;2014;PC-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+MoKMaSD;2014;PC-committee;Ferenc Jordan;CoSBI;Italy
+MoKMaSD;2014;PC-committee;Wei-chung Liu;Academia Sinica, Taiwan;R.O.C.
+MoKMaSD;2014;PC-committee;Donato Malerba;University of Bari;Italy
+MoKMaSD;2014;PC-committee;Stan Matwin;University of Ottawa;Canada
+MoKMaSD;2014;PC-committee;Paolo Milazzo;University of Pisa;Italy
+MoKMaSD;2014;PC-committee;Anna Monreale;University of Pisa;Italy
+MoKMaSD;2014;PC-committee;Siegfried Nijssen;KU Leuven and University of Leiden;Belgium/The Netherlands
+MoKMaSD;2014;PC-committee;Adegboyega Ojo;DERI, National University of Ireland;Ireland
+MoKMaSD;2014;PC-committee;Giovanni Pardini;University of Pisa;Italy
+MoKMaSD;2014;PC-committee;Matteo Pedercini;Millennium Institute;US
+MoKMaSD;2014;PC-committee;Nikos Pelekis;University of Piraeus;Greece
+MoKMaSD;2014;PC-committee;Anna Philippou;University of Cyprus;Cyprus
+MoKMaSD;2014;PC-committee;Marco Scotti;GEOMAR Centre, Kiel;Germany
+MoKMaSD;2014;PC-committee;Luca Tesei;University of Camerino;Italy
+MoKMaSD;2014;PC-committee;Daniel Villatoro;IIIA-CSIC & Universitat Autònoma de Barcelona;Spain
+MoKMaSD;2014;PC-committee;Hui Xiong;Rutgers, State University of New Jersey;US
+MoKMaSD;2015;Co-located;Software Engineering and Formal Methods - SEFM 2015
+MoKMaSD;2015;Location;York;UK
+MoKMaSD;2015;Methodologies-and-notations;Agent-based Methodologies
+MoKMaSD;2015;Methodologies-and-notations;Automata-based Notations
+MoKMaSD;2015;Methodologies-and-notations;Big Data Analytics
+MoKMaSD;2015;Methodologies-and-notations;Cellular Automata
+MoKMaSD;2015;Methodologies-and-notations;Conformance Analysis
+MoKMaSD;2015;Methodologies-and-notations;Constraint Programming
+MoKMaSD;2015;Methodologies-and-notations;Data Mining
+MoKMaSD;2015;Methodologies-and-notations;Differential Equations
+MoKMaSD;2015;Methodologies-and-notations;Empirical Modelling
+MoKMaSD;2015;Methodologies-and-notations;Game Theory
+MoKMaSD;2015;Methodologies-and-notations;Machine Learning
+MoKMaSD;2015;Methodologies-and-notations;Membrane Systems
+MoKMaSD;2015;Methodologies-and-notations;Network Theory and Analysis
+MoKMaSD;2015;Methodologies-and-notations;Ontologies
+MoKMaSD;2015;Methodologies-and-notations;Optimisation Modelling
+MoKMaSD;2015;Methodologies-and-notations;Petri Nets
+MoKMaSD;2015;Methodologies-and-notations;Process Calculi
+MoKMaSD;2015;Methodologies-and-notations;Process Mining
+MoKMaSD;2015;Methodologies-and-notations;Rewriting Systems
+MoKMaSD;2015;Methodologies-and-notations;Spatio-temporal Data Analysis/Mining
+MoKMaSD;2015;Methodologies-and-notations;System Dynamics
+MoKMaSD;2015;Methodologies-and-notations;Text Mining
+MoKMaSD;2015;Application-domains;Biology
+MoKMaSD;2015;Application-domains;Business Process Management
+MoKMaSD;2015;Application-domains;Climate Change
+MoKMaSD;2015;Application-domains;Ecology
+MoKMaSD;2015;Application-domains;Education
+MoKMaSD;2015;Application-domains;Environmental Risk Assessment and Management
+MoKMaSD;2015;Application-domains;Enterprise Architectures
+MoKMaSD;2015;Application-domains;Epidemiology
+MoKMaSD;2015;Application-domains;Genetics
+MoKMaSD;2015;Application-domains;Governance
+MoKMaSD;2015;Application-domains;Open Source Software Development and Communities
+MoKMaSD;2015;Application-domains;Pharmacology
+MoKMaSD;2015;Application-domains;Social Software Engineering
+MoKMaSD;2015;Application-domains;Social Systems
+MoKMaSD;2015;Application-domains;Sustainable Development
+MoKMaSD;2015;Application-domains;Urban Ecology and Smart Cities
+MoKMaSD;2015;Keynote;Tias Guns;Declarative Languages and Artificial Intelligence Lab., KU Leuven;Belgium
+MoKMaSD;2015;Keynote;School of Informatics;University of Edinburgh;UK
+MoKMaSD;2015;PC-chair;Paolo Milazzo;University of Pisa;Italy
+MoKMaSD;2015;PC-chair;Anna Monreale;University of Pisa;Italy
+MoKMaSD;2015;PC-committee;Luís Barbosa;University of Minho;Portugal
+MoKMaSD;2015;PC-committee;Bettina Berendt;KU Leuven;Belgium
+MoKMaSD;2015;PC-committee;Luca Bortolussi;University of Trieste;Italy
+MoKMaSD;2015;PC-committee;Peter Breuer;Birmingham City University;UK
+MoKMaSD;2015;PC-committee;Giulio Caravagna;University of Milano-Bicocca;Italy
+MoKMaSD;2015;PC-committee;Antonio Cerone;IMT Institute for Advanced Studies Lucca;Italy
+MoKMaSD;2015;PC-committee;Andrea Esuli;ISTI-CNR, Pisa;Italy
+MoKMaSD;2015;PC-committee;Alexeis Garcia-Perez;Coventry University;UK
+MoKMaSD;2015;PC-committee;Jane Hillston;University of Edinbourgh;UK
+MoKMaSD;2015;PC-committee;Joris Hulstijn;Delft University of Technology;The Netherlands
+MoKMaSD;2015;PC-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+MoKMaSD;2015;PC-committee;Donato Malerba;University of Bari;Italy
+MoKMaSD;2015;PC-committee;Stan Matwin;University of Ottawa;Canada
+MoKMaSD;2015;PC-committee;Paolo Milazzo;University of Pisa;Italy
+MoKMaSD;2015;PC-committee;Anna Monreale;University of Pisa;Italy
+MoKMaSD;2015;PC-committee;Siegfried Nijssen;KU Leuven and University of Leiden;Belgium/The Netherlands
+MoKMaSD;2015;PC-committee;Adegboyega Ojo;DERI, National University of Ireland;Ireland
+MoKMaSD;2015;PC-committee;Giovanni Pardini;University of Pisa;Italy
+MoKMaSD;2015;PC-committee;Nikos Pelekis;University of Piraeus;Greece
+MoKMaSD;2015;PC-committee;Anna Philippou;University of Cyprus;Cyprus
+MoKMaSD;2015;PC-committee;Giulio Rossetti;ISTI-CNR and University of Pisa;Italy
+MoKMaSD;2015;PC-committee;Marco Scotti;GEOMAR Centre, Kiel;Germany
+MoKMaSD;2015;PC-committee;Filippo Simini;Univesity of Bristol;UK
+MoKMaSD;2015;PC-committee;Manolis Terrovitis;IMIS, Athena Research Center;Greece
+MoKMaSD;2015;PC-committee;Luca Tesei;University of Camerino;Italy
+DataMod;2016;Co-located;Software Technologies: Applications and Foundations - STAF 2016
+DataMod;2016;Location;Vienna;Austria
+DataMod;2016;Modelling-and-analysis-methodologies;Agent-based Methodologies
+DataMod;2016;Modelling-and-analysis-methodologies;Automata-based Methodologies
+DataMod;2016;Modelling-and-analysis-methodologies;Big Data Analytics
+DataMod;2016;Modelling-and-analysis-methodologies;Cellular Automata
+DataMod;2016;Modelling-and-analysis-methodologies;Classification
+DataMod;2016;Modelling-and-analysis-methodologies;Clustering, Segmentation and Profiling
+DataMod;2016;Modelling-and-analysis-methodologies;Conformance Analysis
+DataMod;2016;Modelling-and-analysis-methodologies;Constraint Programming
+DataMod;2016;Modelling-and-analysis-methodologies;Data Mining
+DataMod;2016;Modelling-and-analysis-methodologies;Differential Equations
+DataMod;2016;Modelling-and-analysis-methodologies;Game Theory
+DataMod;2016;Modelling-and-analysis-methodologies;Machine Learning
+DataMod;2016;Modelling-and-analysis-methodologies;Membrane Systems
+DataMod;2016;Modelling-and-analysis-methodologies;Network Theory and Analysis
+DataMod;2016;Modelling-and-analysis-methodologies;Ontologies
+DataMod;2016;Modelling-and-analysis-methodologies;Optimisation Modelling
+DataMod;2016;Modelling-and-analysis-methodologies;Petri Nets
+DataMod;2016;Modelling-and-analysis-methodologies;Process Calculi
+DataMod;2016;Modelling-and-analysis-methodologies;Process Mining
+DataMod;2016;Modelling-and-analysis-methodologies;Rewriting Systems
+DataMod;2016;Modelling-and-analysis-methodologies;Spatio-temporal Data Analysis/Mining
+DataMod;2016;Modelling-and-analysis-methodologies;Statistical Model Checking
+DataMod;2016;Modelling-and-analysis-methodologies;Text Mining
+DataMod;2016;Modelling-and-analysis-methodologies;Topological Data Analysis
+DataMod;2016;Application-domains;Biology
+DataMod;2016;Application-domains;Brain Data and Simulation
+DataMod;2016;Application-domains;Business Process Management
+DataMod;2016;Application-domains;Climate Change
+DataMod;2016;Application-domains;Ecology
+DataMod;2016;Application-domains;Education
+DataMod;2016;Application-domains;Environmental Risk Assessment and Management
+DataMod;2016;Application-domains;Enterprise Architectures
+DataMod;2016;Application-domains;Epidemiology
+DataMod;2016;Application-domains;Genetics
+DataMod;2016;Application-domains;Governance
+DataMod;2016;Application-domains;Open Source Software Development and Communities
+DataMod;2016;Application-domains;Pharmacology
+DataMod;2016;Application-domains;Social Good
+DataMod;2016;Application-domains;Social Software Engineering
+DataMod;2016;Application-domains;Social Systems
+DataMod;2016;Application-domains;Sustainable Development
+DataMod;2016;Application-domains;Urban Ecology
+DataMod;2016;Application-domains;Smart Cities and Smart Lands
+DataMod;2016;Keynote;Emanuela Merelli;University of Camerino;Italy
+DataMod;2016;Keynote;Mirco Musolesi;University College London;UK
+DataMod;2016;PC-chair;Luca Tesei;University of Camerino;Italy
+DataMod;2016;PC-chair;Roberto Trasarti;ISTI-CNR, Pisa;Italy
+DataMod;2016;PC-committee;Ezio Bartocci;Vienna University of Technology;Austria
+DataMod;2016;PC-committee;Luca Bortolussi;University of Trieste;Italy
+DataMod;2016;PC-committee;Giulio Caravagna;University of Edinburgh;UK
+DataMod;2016;PC-committee;Paweł Dłotko;Inria, Saclay;France
+DataMod;2016;PC-committee;Nadia Essoussi;University of Carthage;Tunisia
+DataMod;2016;PC-committee;Alexeis Garcia-Perez;Coventry University;UK
+DataMod;2016;PC-committee;Yiwei Gong;Wuhan University;China
+DataMod;2016;PC-committee;Tias Guns;KU Leuven;Belgium
+DataMod;2016;PC-committee;Joris Hulstijn;Delft University of Technology;The Netherlands
+DataMod;2016;PC-committee;Krzysztof Krawiec;Poznan University of Technology;Poland
+DataMod;2016;PC-committee;Donato Malerba;University of Bari;Italy
+DataMod;2016;PC-committee;Emanuela Merelli;University of Camerino;Italy
+DataMod;2016;PC-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2016;PC-committee;Patrick Mukala;Eindhoven University of Technology;The Netherlands
+DataMod;2016;PC-committee;Nicola Paoletti;University of Oxford;UK
+DataMod;2016;PC-committee;Giovanni Pardini;University of Pisa;Italy
+DataMod;2016;PC-committee;Nikos Pelekis;University of Piraeus;Greece
+DataMod;2016;PC-committee;Anna Philippou;University of Cyprus;Cyprus
+DataMod;2016;PC-committee;Barbara Re;University of Camerino;Italy
+DataMod;2016;PC-committee;Giulio Rossetti;ISTI-CNR and University of Pisa;Italy
+DataMod;2016;PC-committee;Bruno Rossi;Masaryk University, Brno;Czech Republic
+DataMod;2016;PC-committee;Luca Tesei;University of Camerino;Italy
+DataMod;2016;PC-committee;Manolis Terrovitis;IMI, Athena Research Center;Greece
+DataMod;2016;PC-committee;Roberto Trasarti;ISTI-CNR, Pisa;Italy
+DataMod;2016;Steering-committee;Antonio Cerone;IMT Institute for Advanced Studies Lucca;Italy
+DataMod;2016;Steering-committee;Jane Hillston;University of Edinburgh;UK
+DataMod;2016;Steering-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+DataMod;2016;Steering-committee;Stan Matwin;University of Ottawa;Canada
+DataMod;2016;Steering-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2016;Steering-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2017;Co-located;Software Engineering and Formal Methods - SEFM 2017
+DataMod;2017;Location;Trento;Italy
+DataMod;2017;Modelling-and-analysis-methodologies;Agent-based Methodologies
+DataMod;2017;Modelling-and-analysis-methodologies;Automata-based Methodologies
+DataMod;2017;Modelling-and-analysis-methodologies;Big Data Analytics
+DataMod;2017;Modelling-and-analysis-methodologies;Cellular Automata
+DataMod;2017;Modelling-and-analysis-methodologies;Classification
+DataMod;2017;Modelling-and-analysis-methodologies;Clustering, Segmentation and Profiling
+DataMod;2017;Modelling-and-analysis-methodologies;Conformance Analysis
+DataMod;2017;Modelling-and-analysis-methodologies;Constraint Programming
+DataMod;2017;Modelling-and-analysis-methodologies;Data Mining
+DataMod;2017;Modelling-and-analysis-methodologies;Differential Equations
+DataMod;2017;Modelling-and-analysis-methodologies;Game Theory
+DataMod;2017;Modelling-and-analysis-methodologies;Machine Learning
+DataMod;2017;Modelling-and-analysis-methodologies;Membrane Systems
+DataMod;2017;Modelling-and-analysis-methodologies;Network Theory and Analysis
+DataMod;2017;Modelling-and-analysis-methodologies;Ontologies
+DataMod;2017;Modelling-and-analysis-methodologies;Optimisation Modelling
+DataMod;2017;Modelling-and-analysis-methodologies;Petri Nets
+DataMod;2017;Modelling-and-analysis-methodologies;Process Calculi
+DataMod;2017;Modelling-and-analysis-methodologies;Process Mining
+DataMod;2017;Modelling-and-analysis-methodologies;Rewriting Systems
+DataMod;2017;Modelling-and-analysis-methodologies;Spatio-temporal Data Analysis/Mining
+DataMod;2017;Modelling-and-analysis-methodologies;Statistical Model Checking
+DataMod;2017;Modelling-and-analysis-methodologies;Text Mining
+DataMod;2017;Modelling-and-analysis-methodologies;Topological Data Analysis
+DataMod;2017;Application-domains;Biology
+DataMod;2017;Application-domains;Brain Data and Simulation
+DataMod;2017;Application-domains;Business Process Management
+DataMod;2017;Application-domains;Climate Change
+DataMod;2017;Application-domains;Cybersecurity
+DataMod;2017;Application-domains;Ecology
+DataMod;2017;Application-domains;Education
+DataMod;2017;Application-domains;Environmental Risk Assessment and Management
+DataMod;2017;Application-domains;Enterprise Architectures
+DataMod;2017;Application-domains;Epidemiology
+DataMod;2017;Application-domains;Genetics
+DataMod;2017;Application-domains;Governance
+DataMod;2017;Application-domains;Open Source Software Development and Communities
+DataMod;2017;Application-domains;Pharmacology
+DataMod;2017;Application-domains;Resilience Engineering
+DataMod;2017;Application-domains;Safety and Security Risk Assessment
+DataMod;2017;Application-domains;Social Good
+DataMod;2017;Application-domains;Social Software Engineering
+DataMod;2017;Application-domains;Social Systems
+DataMod;2017;Application-domains;Sustainable Development
+DataMod;2017;Application-domains;Threat modelling and analysis
+DataMod;2017;Application-domains;Urban Ecology
+DataMod;2017;Application-domains;Smart Cities and Smart Lands
+DataMod;2017;Keynote;Siobhán Clarke;Trinity College Dublin;Ireland
+DataMod;2017;Keynote;Bruno Lepri;Fondazione Bruno Kessler and MIT Media Lab, Trento;Italy
+DataMod;2017;Keynote;Simone Tini;Università dell’Insubria, Varese;Italy
+DataMod;2017;PC-chair;Vashti Galpin;University of Edinburgh;UK
+DataMod;2017;PC-chair;André Teixeira;Delft University of Technology;The Netherlands
+DataMod;2017;PC-committee;Ezio Bartocci;TU Wien;Austria
+DataMod;2017;PC-committee;Bettina Berendt;KU Leuven;Belgium
+DataMod;2017;PC-committee;Luca Bortolussi;University of Trieste;Italy
+DataMod;2017;PC-committee;Giulio Caravagna;University of Edinburgh;UK
+DataMod;2017;PC-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2017;PC-committee;Chiara Damiani;University of Milano-Bicocca;Italy
+DataMod;2017;PC-committee;Cheng Feng;Imperial College London;UK
+DataMod;2017;PC-committee;Giuditta Franco;University of Verona;Italy
+DataMod;2017;PC-committee;Ilenia Fronza;Free University of Bolzano, Bozen;Italy
+DataMod;2017;PC-committee;Rosalba Giugno;University of Verona;Italy
+DataMod;2017;PC-committee;Vashti Galpin;University of Edinburgh;UK
+DataMod;2017;PC-committee;Yiwei Gong;Wuhan University;China
+DataMod;2017;PC-committee;Rocio Gonzalez-Diaz;University of Seville;Spain
+DataMod;2017;PC-committee;Tias Guns;Vrije Universiteit Brussel;Belgium
+DataMod;2017;PC-committee;Joris Hulstijn;Delft University of Technology;The Netherlands
+DataMod;2017;PC-committee;Mouna Kacimi;Free University of Bozen-Bolzano;Italy
+DataMod;2017;PC-committee;Sotirios Liaskos;York University;UK
+DataMod;2017;PC-committee;Donato Malerba;University of Bari;Italy
+DataMod;2017;PC-committee;Emanuela Merelli;University of Camerino;Italy
+DataMod;2017;PC-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2017;PC-committee;Charles Morisset;Newcastle University;UK
+DataMod;2017;PC-committee;Patrick Mukala;Enidhoven University of Technology;The Netherlands
+DataMod;2017;PC-committee;Laura Nenzi;IMT, Lucca;Italy
+DataMod;2017;PC-committee;Nicola Paoletti;Stony Brook University;US
+DataMod;2017;PC-committee;Anna Philippou;University of Cyprus;Cyprus
+DataMod;2017;PC-committee;Carla Piazza;University of Udine;Italy
+DataMod;2017;PC-committee;Silvio Ranise;Fondazione Bruno Kessler, Trento;Italy
+DataMod;2017;PC-committee;Giulio Rossetti;ISTI-CNR and University of Pisa;Italy
+DataMod;2017;PC-committee;Matteo Rucco;United Technologies Research Center, Trento;Italy
+DataMod;2017;PC-committee;Marc Sterling;Nazarbayev University;Kazakhstan
+DataMod;2017;PC-committee;André Teixeira;Delft University of Technology;The Netherlands
+DataMod;2017;PC-committee;Luca Tesei;University of Camerino;Italy
+DataMod;2017;PC-committee;Roberto Trasarti;ISTI-CNR, Pisa;Italy
+DataMod;2017;PC-committee;Luca Viganò;King's College London;UK
+DataMod;2017;PC-committee;Nicola Zannone;Eindhoven University of Technology;The Netherlands
+DataMod;2017;PC-committee;Roberto Zunino;University of Trento;Italy
+DataMod;2017;Steering-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2017;Steering-committee;Jane Hillston;University of Edinburgh;UK
+DataMod;2017;Steering-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+DataMod;2017;Steering-committee;Stan Matwin;University of Ottawa;Canada
+DataMod;2017;Steering-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2017;Steering-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2018;Co-located;Software Technologies: Applications and Foundations - STAF 2018
+DataMod;2018;Location;Toulouse;France
+DataMod;2018;Modelling-and-analysis-methodologies;Agent-based Methodologies
+DataMod;2018;Modelling-and-analysis-methodologies;Automata-based Methodologies
+DataMod;2018;Modelling-and-analysis-methodologies;Big Data Analytics
+DataMod;2018;Modelling-and-analysis-methodologies;Cellular Automata
+DataMod;2018;Modelling-and-analysis-methodologies;Classification
+DataMod;2018;Modelling-and-analysis-methodologies;Clustering, Segmentation and Profiling
+DataMod;2018;Modelling-and-analysis-methodologies;Conformance Analysis
+DataMod;2018;Modelling-and-analysis-methodologies;Constraint Programming
+DataMod;2018;Modelling-and-analysis-methodologies;Data Mining
+DataMod;2018;Modelling-and-analysis-methodologies;Differential Equations
+DataMod;2018;Modelling-and-analysis-methodologies;Game Theory
+DataMod;2018;Modelling-and-analysis-methodologies;Machine Learning
+DataMod;2018;Modelling-and-analysis-methodologies;Membrane Systems
+DataMod;2018;Modelling-and-analysis-methodologies;Network Theory and Analysis
+DataMod;2018;Modelling-and-analysis-methodologies;Ontologies
+DataMod;2018;Modelling-and-analysis-methodologies;Optimisation Modelling
+DataMod;2018;Modelling-and-analysis-methodologies;Petri Nets
+DataMod;2018;Modelling-and-analysis-methodologies;Process Calculi
+DataMod;2018;Modelling-and-analysis-methodologies;Process Mining
+DataMod;2018;Modelling-and-analysis-methodologies;Rewriting Systems
+DataMod;2018;Modelling-and-analysis-methodologies;Spatio-temporal Data Analysis/Mining
+DataMod;2018;Modelling-and-analysis-methodologies;Statistical Model Checking
+DataMod;2018;Modelling-and-analysis-methodologies;Text Mining
+DataMod;2018;Modelling-and-analysis-methodologies;Topological Data Analysis
+DataMod;2018;Application-domains;Biology
+DataMod;2018;Application-domains;Brain Data and Simulation
+DataMod;2018;Application-domains;Business Process Management
+DataMod;2018;Application-domains;Climate Change
+DataMod;2018;Application-domains;Cybersecurity
+DataMod;2018;Application-domains;Ecology
+DataMod;2018;Application-domains;Education
+DataMod;2018;Application-domains;Environmental Risk Assessment and Management
+DataMod;2018;Application-domains;Enterprise Architectures
+DataMod;2018;Application-domains;Epidemiology
+DataMod;2018;Application-domains;Genetics and Genomics
+DataMod;2018;Application-domains;Governance
+DataMod;2018;Application-domains;HCI and Human Behaviour
+DataMod;2018;Application-domains;Open Source Software Development and Communities
+DataMod;2018;Application-domains;Pharmacology
+DataMod;2018;Application-domains;Resilience Engineering
+DataMod;2018;Application-domains;Safety and Security Risk Assessment
+DataMod;2018;Application-domains;Social Good
+DataMod;2018;Application-domains;Social Software Engineering
+DataMod;2018;Application-domains;Social Systems
+DataMod;2018;Application-domains;Sustainable Development
+DataMod;2018;Application-domains;Threat modelling and analysis
+DataMod;2018;Application-domains;Urban Ecology
+DataMod;2018;Application-domains;Smart Cities and Smart Lands
+DataMod;2018;Keynote;Giulio Caravagna;Institute of Cancer Research;UK
+DataMod;2018;Keynote;Paolo Masci;INSEC TEC and Universidade do Minho;Portugal
+DataMod;2018;Keynote;Gwen Salaün;University of Grenoble Alpes;France
+DataMod;2018;PC-chair;Oana Andrei;University of Glasgow;UK
+DataMod;2018;PC-chair;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2018;PC-chair;Riccardo Guidotti;ISTI-CNR;Italy
+DataMod;2018;PC-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2018;PC-committee;Luís Barbosa;United Nations University, UNU-EGOV;Portugal
+DataMod;2018;PC-committee;Bettina Berendt;Katholieke Universiteit Leuven;Belgium
+DataMod;2018;PC-committee;Armelle Brun;LORIA – Universite Nancy 2;France
+DataMod;2018;PC-committee;Juliana Bowles;University of St Andrews;UK
+DataMod;2018;PC-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2018;PC-committee;François Fages;INRIA & Universite Paris-Saclay;France
+DataMod;2018;PC-committee;Lei Fang;University of St Andrews;UK
+DataMod;2018;PC-committee;Cheng Feng;Siemens Corporate Technology;China
+DataMod;2018;PC-committee;Giuditta Franco;University of Verona;Italy
+DataMod;2018;PC-committee;Vashti Galpin;University of Edinburgh;UK
+DataMod;2018;PC-committee;Yiwei Gong;Wuhan University;China
+DataMod;2018;PC-committee;Rocio Gonzalez-Diaz;University of Seville;Spain
+DataMod;2018;PC-committee;Riccardo Guidotti;University of Pisa & ISTI-CNR;Italy
+DataMod;2018;PC-committee;Tias Guns;Vrije Universiteit Brussel;Belgium
+DataMod;2018;PC-committee;Joris Hulstijn;Tilburg University;The Netherlands
+DataMod;2018;PC-committee;Mouna Kacimi;Free University of Bozen-Bolzano;Italy
+DataMod;2018;PC-committee;Paddy Krishnan;Oracle Labs;Australia
+DataMod;2018;PC-committee;Sotirios Liaskos;York University;Canada
+DataMod;2018;PC-committee;Martin Lukac;Nazarbayev University;Kazakhstan
+DataMod;2018;PC-committee;Letizia Milli;University of Pisa;Italy
+DataMod;2018;PC-committee;Charles Morisset;Newcastle University;UK
+DataMod;2018;PC-committee;Patrick Mukala;Eindhoven University of Technology;The Netherlands
+DataMod;2018;PC-committee;Mirco Musolesi;University College London;UK
+DataMod;2018;PC-committee;Laura Nenzi;TU Wien;Austria
+DataMod;2018;PC-committee;Siegfried Nijssen;Katholieke Universiteit Leuven;Belgium
+DataMod;2018;PC-committee;Nicola Paoletti;Stony Brook University;US
+DataMod;2018;PC-committee;Ettore Ritacco;ICAR-CNR;Italy
+DataMod;2018;PC-committee;Gwen Salaün;University of Grenoble Alpes;France
+DataMod;2018;PC-committee;Mark Sterling;Nazarbayev University;Kazakhstan
+DataMod;2018;PC-committee;Luca Tesei;University of Camerino;Italy
+DataMod;2018;Organizing-committee;Vashti Galpin;University of Edinburgh;UK
+DataMod;2018;Organizing-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2018;Steering-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2018;Steering-committee;Jane Hillston;University of Edinburgh;UK
+DataMod;2018;Steering-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+DataMod;2018;Steering-committee;Stan Matwin;University of Ottawa;Canada
+DataMod;2018;Steering-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2018;Steering-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2019;Co-located;3rd World Congress on Formal Methods - FM'19
+DataMod;2019;Location;Porto;Portugal
+DataMod;2019;Modelling-and-analysis-methodologies;Agent-based Methodologies
+DataMod;2019;Modelling-and-analysis-methodologies;Automata-based Methodologies
+DataMod;2019;Modelling-and-analysis-methodologies;Big Data Analytics
+DataMod;2019;Modelling-and-analysis-methodologies;Cellular Automata
+DataMod;2019;Modelling-and-analysis-methodologies;Classification
+DataMod;2019;Modelling-and-analysis-methodologies;Clustering, Segmentation and Profiling
+DataMod;2019;Modelling-and-analysis-methodologies;Conformance Analysis
+DataMod;2019;Modelling-and-analysis-methodologies;Constraint Programming
+DataMod;2019;Modelling-and-analysis-methodologies;Data Mining
+DataMod;2019;Modelling-and-analysis-methodologies;Differential Equations
+DataMod;2019;Modelling-and-analysis-methodologies;Game Theory
+DataMod;2019;Modelling-and-analysis-methodologies;Machine Learning
+DataMod;2019;Modelling-and-analysis-methodologies;Membrane Systems
+DataMod;2019;Modelling-and-analysis-methodologies;Network Theory and Analysis
+DataMod;2019;Modelling-and-analysis-methodologies;Ontologies
+DataMod;2019;Modelling-and-analysis-methodologies;Optimisation Modelling
+DataMod;2019;Modelling-and-analysis-methodologies;Petri Nets
+DataMod;2019;Modelling-and-analysis-methodologies;Process Calculi
+DataMod;2019;Modelling-and-analysis-methodologies;Process Mining
+DataMod;2019;Modelling-and-analysis-methodologies;Rewriting Systems
+DataMod;2019;Modelling-and-analysis-methodologies;Spatio-temporal Data Analysis/Mining
+DataMod;2019;Modelling-and-analysis-methodologies;Statistical Model Checking
+DataMod;2019;Modelling-and-analysis-methodologies;Text Mining
+DataMod;2019;Modelling-and-analysis-methodologies;Topological Data Analysis
+DataMod;2019;Application-domains;Biology
+DataMod;2019;Application-domains;Brain Data and Simulation
+DataMod;2019;Application-domains;Business Process Management
+DataMod;2019;Application-domains;Climate Change
+DataMod;2019;Application-domains;Cybersecurity
+DataMod;2019;Application-domains;Ecology
+DataMod;2019;Application-domains;Education
+DataMod;2019;Application-domains;Environmental Risk Assessment and Management
+DataMod;2019;Application-domains;Enterprise Architectures
+DataMod;2019;Application-domains;Epidemiology
+DataMod;2019;Application-domains;Genetics and Genomics
+DataMod;2019;Application-domains;Governance
+DataMod;2019;Application-domains;HCI and Human Behaviour
+DataMod;2019;Application-domains;Open Source Software Development and Communities
+DataMod;2019;Application-domains;Pharmacology
+DataMod;2019;Application-domains;Resilience Engineering
+DataMod;2019;Application-domains;Safety and Security Risk Assessment
+DataMod;2019;Application-domains;Social Good
+DataMod;2019;Application-domains;Social Software Engineering
+DataMod;2019;Application-domains;Social Systems
+DataMod;2019;Application-domains;Sustainable Development
+DataMod;2019;Application-domains;Threat modelling and analysis
+DataMod;2019;Application-domains;Urban Ecology
+DataMod;2019;Application-domains;Smart Cities and Smart Lands
+DataMod;2019;Keynote;Ana Cavalcanti;University of York;UK
+DataMod;2019;Keynote;Mieke Massink;ISTI-CNR;Italy
+DataMod;2019;PC-chair;Vashti Galpin;University of Edinburgh;UK
+DataMod;2019;PC-chair;Riccardo Guidotti;ISTI-CNR;Italy
+DataMod;2019;PC-chair;Mirco Nanni;ISTI-CNR;Italy
+DataMod;2019;PC-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2019;PC-committee;Luís Barbosa;Universidade do Minho;Portugal
+DataMod;2019;PC-committee;Giovanna Broccia;ISTI-CNR;Italy
+DataMod;2019;PC-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2019;PC-committee;Vittorio Cuculo;Università degli Studi di Milano;Italy
+DataMod;2019;PC-committee;Ricardo M. Czekster;University of Santa Cruz do Sul;Brazil
+DataMod;2019;PC-committee;Giuditta Franco;University of Verona;Italy
+DataMod;2019;PC-committee;Cheng Fu;University of Zurich;Switzerland
+DataMod;2019;PC-committee;Rocio Gonzalez-Diaz;Universidad de Sevilla;Spain
+DataMod;2019;PC-committee;Tias Guns;Vrije Universiteit Brussel;Belgium
+DataMod;2019;PC-committee;Haosheng Huang;University of Zurich;Switzerland
+DataMod;2019;PC-committee;Juliana Bowles;University of St Andrews;UK
+DataMod;2019;PC-committee;Martin Lukac;Nazarbayev University;Kazakhstan
+DataMod;2019;PC-committee;Ludovica Luisa Vissat;University of Edinburgh;UK
+DataMod;2019;PC-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2019;PC-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2019;PC-committee;Mirco Musolesi;University College London;UK
+DataMod;2019;PC-committee;Amedeo Napoli;LORIA Nancy (CNRS – Inria – Université de Lorraine);France
+DataMod;2019;PC-committee;Laura Nenzi;IMT School for Advanced Studies Lucca;Italy
+DataMod;2019;PC-committee;Nicola Paoletti;University of London;UK
+DataMod;2019;PC-committee;Nikos Pelekis;University of Piraeus;Greece
+DataMod;2019;PC-committee;Roberto Pellungrini;ISTI-CNR;Italy
+DataMod;2019;PC-committee;Carla Piazza;University of Udine;Italy
+DataMod;2019;PC-committee;Giuseppe Pirrò;University of Rome;Italy
+DataMod;2019;PC-committee;Gwen Salaün;INRIA;France
+DataMod;2019;PC-committee;Mark Sterling;Nazarbayev University;Kazakhstan
+DataMod;2019;PC-committee;Andrea Tagarelli;University of Calabria;Italy
+DataMod;2019;PC-committee;Luca Tesei;University of Camerino;Italy
+DataMod;2019;PC-committee;Evgenij Thorstensen;University of Oslo;Norway
+DataMod;2019;Organizing-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2019;Organizing-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2019;Organizing-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2019;Steering-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2019;Steering-committee;Jane Hillston;University of Edinburgh;UK
+DataMod;2019;Steering-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+DataMod;2019;Steering-committee;Stan Matwin;University of Ottawa;Canada
+DataMod;2019;Steering-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2019;Steering-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2020;Co-located;International Conference on Information and Knowledge Management - CIKM
+DataMod;2020;Location;On-line venue
+DataMod;2020;Modelling-and-analysis-methodologies;Agent-based Methodologies
+DataMod;2020;Modelling-and-analysis-methodologies;Automata-based Methodologies
+DataMod;2020;Modelling-and-analysis-methodologies;Big Data Analytics
+DataMod;2020;Modelling-and-analysis-methodologies;Cellular Automata
+DataMod;2020;Modelling-and-analysis-methodologies;Classification
+DataMod;2020;Modelling-and-analysis-methodologies;Clustering, Segmentation and Profiling
+DataMod;2020;Modelling-and-analysis-methodologies;Conformance Analysis
+DataMod;2020;Modelling-and-analysis-methodologies;Constraint Programming
+DataMod;2020;Modelling-and-analysis-methodologies;Data Mining
+DataMod;2020;Modelling-and-analysis-methodologies;Differential Equations
+DataMod;2020;Modelling-and-analysis-methodologies;Game Theory
+DataMod;2020;Modelling-and-analysis-methodologies;Machine Learning
+DataMod;2020;Modelling-and-analysis-methodologies;Membrane Systems
+DataMod;2020;Modelling-and-analysis-methodologies;Network Theory and Analysis
+DataMod;2020;Modelling-and-analysis-methodologies;Ontologies
+DataMod;2020;Modelling-and-analysis-methodologies;Optimisation Modelling
+DataMod;2020;Modelling-and-analysis-methodologies;Petri Nets
+DataMod;2020;Modelling-and-analysis-methodologies;Process Calculi
+DataMod;2020;Modelling-and-analysis-methodologies;Process Mining
+DataMod;2020;Modelling-and-analysis-methodologies;Rewriting Systems
+DataMod;2020;Modelling-and-analysis-methodologies;Spatio-temporal Data Analysis/Mining
+DataMod;2020;Modelling-and-analysis-methodologies;Statistical Model Checking
+DataMod;2020;Modelling-and-analysis-methodologies;Text Mining
+DataMod;2020;Modelling-and-analysis-methodologies;Topological Data Analysis
+DataMod;2020;Application-domains;Biology
+DataMod;2020;Application-domains;Brain Data and Simulation
+DataMod;2020;Application-domains;Business Process Management
+DataMod;2020;Application-domains;Climate Change
+DataMod;2020;Application-domains;Cybersecurity
+DataMod;2020;Application-domains;Ecology
+DataMod;2020;Application-domains;Education
+DataMod;2020;Application-domains;Environmental Risk Assessment and Management
+DataMod;2020;Application-domains;Enterprise Architectures
+DataMod;2020;Application-domains;Epidemiology
+DataMod;2020;Application-domains;Genetics and Genomics
+DataMod;2020;Application-domains;Governance
+DataMod;2020;Application-domains;HCI and Human Behaviour
+DataMod;2020;Application-domains;Open Source Software Development and Communities
+DataMod;2020;Application-domains;Pharmacology
+DataMod;2020;Application-domains;Resilience Engineering
+DataMod;2020;Application-domains;Safety and Security Risk Assessment
+DataMod;2020;Application-domains;Social Good
+DataMod;2020;Application-domains;Social Software Engineering
+DataMod;2020;Application-domains;Social Systems
+DataMod;2020;Application-domains;Sustainable Development
+DataMod;2020;Application-domains;Threat modelling and analysis
+DataMod;2020;Application-domains;Urban Ecology
+DataMod;2020;Application-domains;Smart Cities and Smart Lands
+DataMod;2020;Keynote;Michael Vinov;IBM Research, Haifa;Israel
+DataMod;2020;PC-chair;Juliana Bowles;Computer Science;University of St Andrews
+DataMod;2020;PC-chair;Giovanna Broccia;FMT Lab, ISTI-CNR;Italy
+DataMod;2020;PC-chair;Mirco Nanni;KDD Lab, ISTI-CNR;Italy
+DataMod;2020;Organizing-committee;vOana Andrei;University of Glasgow;UK
+DataMod;2020;Organizing-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2020;Organizing-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2020;Steering-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2020;Steering-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2020;Steering-committee;Vashti Galpin;University of Edinburgh;UK
+DataMod;2020;Steering-committee;Riccardo Guidotti;University of Pisa;Italy
+DataMod;2020;Steering-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+DataMod;2020;Steering-committee;Stan Matwin;University of Ottawa;Canada
+DataMod;2020;Steering-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2020;Steering-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2020;Steering-committee;Mirco Nanni;ISTI-CNR;Italy
+DataMod;2020;PC-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2020;PC-committee;Davide Basile;ISTI-CNR;Italy
+DataMod;2020;PC-committee;Mario Boley;Monash University;Australia
+DataMod;2020;PC-committee;Juliana Bowles;University of St Andrews;UK
+DataMod;2020;PC-committee;Giovanna Broccia;ISTI-CNR;Italy
+DataMod;2020;PC-committee;Marco Caminati;University of St Andrews;UK
+DataMod;2020;PC-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2020;PC-committee;Ricardo M. Czekster; Newcastle University;UK
+DataMod;2020;PC-committee;Flavio Ferrarotti;SCCH;Austria
+DataMod;2020;PC-committee;Lars Kotthoff;University of Wyoming;US
+DataMod;2020;PC-committee;Giulio Masetti;ISTI-CNR;Italy
+DataMod;2020;PC-committee;Sotiris Moschoyiannis;University of Surrey;UK
+DataMod;2020;PC-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2020;PC-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2020;PC-committee;Reshma Munbodh;Brown University;US
+DataMod;2020;PC-committee;Mirco Nanni;ISTI-CNR;Italy
+DataMod;2020;PC-committee;Lucia Nasti;University of Pisa;Italy
+DataMod;2020;PC-committee;Céline Robardet;INSA Lyon;France
+DataMod;2021;Co-located;Software Engineering and Formal Methods - SEFM 2021
+DataMod;2021;Location;On-line venue
+DataMod;2021;Keynote;Andrea Vandin;Institute of Economics and Department of Excellence EMbeDS, Sant'Anna School of Advanced Studies, Pisa;Italy
+DataMod;2021;Keynote;Antonio Cerone;School of Engineering and Digital Sciences, Nazarbayev University;Kazakhstan
+DataMod;2021;Modelling-and-analysis-methodologies;Agent-based Methodologies
+DataMod;2021;Modelling-and-analysis-methodologies;Automata-based Methodologies
+DataMod;2021;Modelling-and-analysis-methodologies;Big Data Analytics
+DataMod;2021;Modelling-and-analysis-methodologies;Cellular Automata
+DataMod;2021;Modelling-and-analysis-methodologies;Classification
+DataMod;2021;Modelling-and-analysis-methodologies;Clustering, Segmentation and Profiling
+DataMod;2021;Modelling-and-analysis-methodologies;Conformance Analysis
+DataMod;2021;Modelling-and-analysis-methodologies;Constraint Programming
+DataMod;2021;Modelling-and-analysis-methodologies;Data Mining
+DataMod;2021;Modelling-and-analysis-methodologies;Differential Equations
+DataMod;2021;Modelling-and-analysis-methodologies;Game Theory
+DataMod;2021;Modelling-and-analysis-methodologies;Machine Learning
+DataMod;2021;Modelling-and-analysis-methodologies;Membrane Systems
+DataMod;2021;Modelling-and-analysis-methodologies;Network Theory and Analysis
+DataMod;2021;Modelling-and-analysis-methodologies;Ontologies
+DataMod;2021;Modelling-and-analysis-methodologies;Optimisation Modelling
+DataMod;2021;Modelling-and-analysis-methodologies;Petri Nets
+DataMod;2021;Modelling-and-analysis-methodologies;Process Calculi
+DataMod;2021;Modelling-and-analysis-methodologies;Process Mining
+DataMod;2021;Modelling-and-analysis-methodologies;Rewriting Systems
+DataMod;2021;Modelling-and-analysis-methodologies;Spatio-temporal Data Analysis/Mining
+DataMod;2021;Modelling-and-analysis-methodologies;Statistical Model Checking
+DataMod;2021;Modelling-and-analysis-methodologies;Text Mining
+DataMod;2021;Modelling-and-analysis-methodologies;Topological Data Analysis
+DataMod;2021;Application-domains;Biology
+DataMod;2021;Application-domains;Brain Data and Simulation
+DataMod;2021;Application-domains;Business Process Management
+DataMod;2021;Application-domains;Climate Change
+DataMod;2021;Application-domains;Cybersecurity
+DataMod;2021;Application-domains;Ecology
+DataMod;2021;Application-domains;Education
+DataMod;2021;Application-domains;Environmental Risk Assessment and Management
+DataMod;2021;Application-domains;Enterprise Architectures
+DataMod;2021;Application-domains;Epidemiology
+DataMod;2021;Application-domains;Genetics and Genomics
+DataMod;2021;Application-domains;Governance
+DataMod;2021;Application-domains;HCI and Human Behaviour
+DataMod;2021;Application-domains;Open Source Software Development and Communities
+DataMod;2021;Application-domains;Pharmacology
+DataMod;2021;Application-domains;Resilience Engineering
+DataMod;2021;Application-domains;Safety and Security Risk Assessment
+DataMod;2021;Application-domains;Social Good
+DataMod;2021;Application-domains;Social Software Engineering
+DataMod;2021;Application-domains;Social Systems
+DataMod;2021;Application-domains;Sustainable Development
+DataMod;2021;Application-domains;Threat modelling and analysis
+DataMod;2021;Application-domains;Urban Ecology
+DataMod;2021;Application-domains;Smart Cities and Smart Lands
+DataMod;2021;PC-chair;Juliana Bowles;University of St Andrews;UK
+DataMod;2021;PC-chair;Giovanna Broccia;FMT Lab, ISTI-CNR;Italy
+DataMod;2021;PC-chair;Roberto Pellungrini;University of Pisa;Italy
+DataMod;2021;Organizing-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2021;Organizing-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2021;Organizing-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2021;Steering-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2021;Steering-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2021;Steering-committee;Vashti Galpin;University of Edinburgh;UK
+DataMod;2021;Steering-committee;Riccardo Guidotti;University of Pisa;Italy
+DataMod;2021;Steering-committee;Marijn Janssen;Delft University of Technology;The Netherlands
+DataMod;2021;Steering-committee;Stan Matwin;University of Ottawa;Canada
+DataMod;2021;Steering-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2021;Steering-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2021;Steering-committee;Mirco Nanni;ISTI-CNR;Italy
+DataMod;2021;PC-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2021;PC-committee;Davide Basile;ISTI-CNR;Italy
+DataMod;2021;PC-committee;Juliana Bowles;University of St Andrews;UK
+DataMod;2021;PC-committee;Giovanna Broccia;ISTI-CNR;Italy
+DataMod;2021;PC-committee;Marco Caminati;University of Lancaster;UK
+DataMod;2021;PC-committee;Vincenzo Ciancia;ISTI-CNR;Italy
+DataMod;2021;PC-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2021;PC-committee;Ricardo M. Czekster;Newcastle University;UK
+DataMod;2021;PC-committee;Flavio Ferrarotti;SCCH;Austria
+DataMod;2021;PC-committee;Vashti Galpin;University of Edinburgh;UK
+DataMod;2021;PC-committee;Riccardo Guidotti;University of Pisa;Italy
+DataMod;2021;PC-committee;Lars Kotthoff;University of Wyoming;US
+DataMod;2021;PC-committee;Giulio Masetti;ISTI-CNR;Italy
+DataMod;2021;PC-committee;Sotiris Moschoyiannis;University of Surrey;UK
+DataMod;2021;PC-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2021;PC-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2021;PC-committee;Reshma Munbodh;Brown University;US
+DataMod;2021;PC-committee;Mirco Nanni;ISTI-CNR;Italy
+DataMod;2021;PC-committee;Lucia Nasti;GSSI;Italy
+DataMod;2021;PC-committee;Roberto Pellungrini;University of Pisa;Italy
+DataMod;2021;PC-committee;Paolo Zuliani;Newcastle University;UK
+DataMod;2023;Co-located;Software Engineering and Formal Methods - SEFM 2023
+DataMod;2023;Location;Eindhoven;Netherlands
+DataMod;2023;Modelling-and-analysis-methodologies;Agent-based Methodologies
+DataMod;2023;Modelling-and-analysis-methodologies;Automata-based Methodologies
+DataMod;2023;Modelling-and-analysis-methodologies;Big Data Analytics
+DataMod;2023;Modelling-and-analysis-methodologies;Cellular Automata
+DataMod;2023;Modelling-and-analysis-methodologies;Classification
+DataMod;2023;Modelling-and-analysis-methodologies;Clustering, Segmentation and Profiling
+DataMod;2023;Modelling-and-analysis-methodologies;Conformance Analysis
+DataMod;2023;Modelling-and-analysis-methodologies;Constraint Programming
+DataMod;2023;Modelling-and-analysis-methodologies;Data Mining
+DataMod;2023;Modelling-and-analysis-methodologies;Differential Equations
+DataMod;2023;Modelling-and-analysis-methodologies;Game Theory
+DataMod;2023;Modelling-and-analysis-methodologies;Machine Learning
+DataMod;2023;Modelling-and-analysis-methodologies;Membrane Systems
+DataMod;2023;Modelling-and-analysis-methodologies;Network Theory and Analysis
+DataMod;2023;Modelling-and-analysis-methodologies;Ontologies
+DataMod;2023;Modelling-and-analysis-methodologies;Optimisation Modelling
+DataMod;2023;Modelling-and-analysis-methodologies;Petri Nets
+DataMod;2023;Modelling-and-analysis-methodologies;Process Calculi
+DataMod;2023;Modelling-and-analysis-methodologies;Process Mining
+DataMod;2023;Modelling-and-analysis-methodologies;Rewriting Systems
+DataMod;2023;Modelling-and-analysis-methodologies;Spatio-temporal Data Analysis/Mining
+DataMod;2023;Modelling-and-analysis-methodologies;Statistical Model Checking
+DataMod;2023;Modelling-and-analysis-methodologies;Text Mining
+DataMod;2023;Modelling-and-analysis-methodologies;Topological Data Analysis
+DataMod;2023;Application-domains;Biology
+DataMod;2023;Application-domains;Brain Data and Simulation
+DataMod;2023;Application-domains;Business Process Management
+DataMod;2023;Application-domains;Climate Change
+DataMod;2023;Application-domains;Cybersecurity
+DataMod;2023;Application-domains;Ecology
+DataMod;2023;Application-domains;Education
+DataMod;2023;Application-domains;Environmental Risk Assessment and Management
+DataMod;2023;Application-domains;Enterprise Architectures
+DataMod;2023;Application-domains;Epidemiology
+DataMod;2023;Application-domains;Genetics and Genomics
+DataMod;2023;Application-domains;Governance
+DataMod;2023;Application-domains;HCI and Human Behaviour
+DataMod;2023;Application-domains;Open Source Software Development and Communities
+DataMod;2023;Application-domains;Pharmacology
+DataMod;2023;Application-domains;Resilience Engineering
+DataMod;2023;Application-domains;Safety and Security Risk Assessment
+DataMod;2023;Application-domains;Social Good
+DataMod;2023;Application-domains;Social Software Engineering
+DataMod;2023;Application-domains;Social Systems
+DataMod;2023;Application-domains;Sustainable Development
+DataMod;2023;Application-domains;Threat modelling and analysis
+DataMod;2023;Application-domains;Urban Ecology
+DataMod;2023;Application-domains;Smart Cities and Smart Lands
+DataMod;2023;Keynote;Carmen Bratosin;TNO - Netherlands Organization for Applied Scientific Research;The Netherlands
+DataMod;2023;Keynote;Natalia Sidorova;Eindhoven University of Technology;The Netherlands
+DataMod;2023;PC-chair;Giovanna Broccia;ISTI-CNR;Italy
+DataMod;2023;PC-chair;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2023;Organizing-committee;Giovanna Broccia;ISTI-CNR;Italy
+DataMod;2023;Organizing-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2023;Organizing-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2023;Steering-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2023;Steering-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2023;Steering-committee;Vashti Galpin;University of Edinburgh;UK
+DataMod;2023;Steering-committee;Riccardo Guidotti;University of Pisa;Italy
+DataMod;2023;Steering-committee;Marijn Janssen;Delft University of Technology;the Netherlands
+DataMod;2023;Steering-committee;Stan Matwin;University of Ottawa;Canada
+DataMod;2023;Steering-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2023;Steering-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2023;PC-committee;Oana Andrei;University of Glasgow;UK
+DataMod;2023;PC-committee;Juliana Bowles;University of St Andrews;UK
+DataMod;2023;PC-committee;Giovanna Broccia;ISTI-CNR;Italy
+DataMod;2023;PC-committee;Antonio Cerone;Nazarbayev University;Kazakhstan
+DataMod;2023;PC-committee;Ricardo M. Czekster;Aston University;UK
+DataMod;2023;PC-committee;Flavio Ferrarotti;SCCH;Austria
+DataMod;2023;PC-committee;Vashti Galpin;University of Edinburgh;UK
+DataMod;2023;PC-committee;Riccardo Guidotti;University of Pisa;Italy
+DataMod;2023;PC-committee;Lars Kotthoff;University of Wyoming;US
+DataMod;2023;PC-committee;Livia Lestingi;Politecnico di Milano;Italy
+DataMod;2023;PC-committee;Sotiris Moschoyiannis;University of Surrey;UK
+DataMod;2023;PC-committee;Paolo Milazzo;University of Pisa;Italy
+DataMod;2023;PC-committee;Anna Monreale;University of Pisa;Italy
+DataMod;2023;PC-committee;Reshma Munbodh;Brown University;US
+DataMod;2023;PC-committee;Mirco Nanni;ISTI-CNR;Italy
+DataMod;2023;PC-committee;Lucia Nasti;GSSI;Italy
+DataMod;2023;PC-committee;Michela Quadrini;Università di Camerino;Italy
+DataMod;2023;PC-committee;Paolo Zuliani;Università di Roma "La Sapienza";Italy
